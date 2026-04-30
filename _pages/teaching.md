@@ -1,15 +1,23 @@
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description:
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## University of Chicago
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+| Course | Role | Term |
+|--------|------|------|
+| ECON 11600 Experimental Design | Teaching Assistant | Winter 2026 |
+| ECMA 30400 Mathematical Methods in Economics | Lecturer | Summer 2025 |
+| ECON 21030 Econometrics (Honours) | Teaching Assistant | Spring 2025 |
+| ECON 11600 Experimental Design | Teaching Assistant | Spring 2025 |
 
-{% include courses.liquid %}
+## University of Otago
+
+| Course | Role | Term |
+|--------|------|------|
+| ECON407 Political Economy | Teaching Assistant | Semester 2, 2019 |
