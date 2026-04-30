@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: PhD Student in Economics &middot; <a href="https://economics.uchicago.edu">University of Chicago</a>
 
